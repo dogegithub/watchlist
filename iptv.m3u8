@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 ,中天新闻
+http://iptv.tvfix.org/hls/ztxw.m3u8
+#EXTINF:-1 ,东森新闻
+http://iptv.tvfix.org/hls/dsxw.m3u8
+#EXTINF:-1 ,无线财经资讯台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 ,无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 ,TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 ,CGTN纪录高清
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF:-1 ,CGTN高清
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:-1 ,清华电视台
+http://iptv.tvfix.org/hls/tsinghuatv.m3u8
+#EXTINF:-1 ,全纪实高清
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 ,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 ,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
